@@ -324,9 +324,9 @@ Human-focused attacks will continue evolving — especially with AI-enhanced phi
 
 # Final Thoughts
 
-A firewall protects systems.
-Awareness protects people.
-A mature SOC protects both. 🛡️
+A firewall protects systems. <br/>
+Awareness protects people. <br/>
+A mature SOC protects both. 🛡️ <br/>
 
 ---
 
